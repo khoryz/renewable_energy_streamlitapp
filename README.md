@@ -2,7 +2,7 @@
 
 <img alt="Distribution of renewable power plants" title="Distribution of renewable power plants" src="reports/img/ppdist.png" width="375"  hspace="15"> <img alt="Feed-in tariff and energy production" title="Feed-in tariff and energy production" src="reports/img/fitariff.png" width="375"  hspace="15">
 
-#### -- Streamlit App Link: [Renewable Energy Streamlit App](https://khoryz-my-first-streamlitapp-srcpowerplant-rvueq9.streamlitapp.com/)
+#### -- Streamlit App Link: [Renewable Energy Streamlit App](https://powerplant.streamlit.app/)
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
