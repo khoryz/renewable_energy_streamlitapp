@@ -21,11 +21,11 @@ def load_data(path):
     df = pd.read_csv(path)
     return df
 
-df_raw = load_data(path="../data/raw/renewable_power_plants_CH.csv")
+df_raw = load_data(path="./data/raw/renewable_power_plants_CH.csv")
 df = deepcopy(df_raw)
 
 with open(
-    "../data/raw/georef-switzerland-kanton.geojson"
+    "./data/raw/georef-switzerland-kanton.geojson"
 ) as json_file:
     geojson = json.load(json_file)
 
